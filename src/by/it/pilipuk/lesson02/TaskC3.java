@@ -35,9 +35,8 @@ class TaskC3 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int i = sc.nextInt();
-        private static int a = 3,86;
-        private static int b = 9,81;
-        
+
+
 
     }
 }
