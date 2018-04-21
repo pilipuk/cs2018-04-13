@@ -23,6 +23,9 @@ class TaskC2 {
         int j = sc.nextInt();
         int result = + i + j;
         System.out.println("DEC"+":"+i+"+"+j+"="+result);
+        System.out.println("BIN"+":"+Integer.toBinaryString(i)+"+"+Integer.toBinaryString(j)+"="+Integer.toBinaryString(result));
+        System.out.println("HEX"+":"+Integer.toHexString(i)+"+"+Integer.toHexString(j)+"="+Integer.toHexString(result));
+        System.out.println("OCT"+":"+Integer.toOctalString(i)+"+"+Integer.toOctalString(j)+"="+Integer.toOctalString(result));
 
                 System.out.println();
 
