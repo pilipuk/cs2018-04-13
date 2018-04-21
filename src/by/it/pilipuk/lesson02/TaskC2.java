@@ -23,7 +23,7 @@ class TaskC2 {
         int j = sc.nextInt();
         int result = + i + j;
         System.out.println("DEC"+":"+i+"+"+j+"="+result);
-        тут методы для перевода i, j и resuslt в их коды
+
                 System.out.println();
 
     }

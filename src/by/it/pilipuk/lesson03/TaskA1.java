@@ -33,8 +33,6 @@ Scanner sc=new Scanner(System.in);
 
  */
 
-import com.sun.org.apache.xpath.internal.SourceTree;
-
 import java.util.Scanner;
 
 class TaskA1 {
