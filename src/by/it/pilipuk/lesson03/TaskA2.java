@@ -24,8 +24,8 @@ class TaskA2 {
     public static void main(String[] args) {
         String a="У лукоморья ";
         String b="дуб зеленый ";
-        String c="У лукоморья ";
-        String d="У лукоморья ";
+        String c="златая цепь";
+        String d="на дубе том";
         System.out.println("Мое любимое стихотворение:");
         System.out.println(a+"\n"+b+"\n"+c+"\n"+d);
 
