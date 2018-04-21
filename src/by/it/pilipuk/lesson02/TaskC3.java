@@ -35,8 +35,14 @@ class TaskC3 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int i = sc.nextInt();
+        double res = i*3.86/9.81*100;
+        int res1;
+        res1=(int) res;
+        double res2;
+        res2=(double)res1/100;
+                    System.out.println(res2);
+        }
 
 
 
-    }
 }
