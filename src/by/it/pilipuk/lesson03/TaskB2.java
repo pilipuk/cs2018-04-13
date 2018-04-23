@@ -36,16 +36,16 @@ class TaskB2 {
           Scanner sc=new Scanner(System.in);
                   int a= sc.nextInt();
                      System.out.println(" ");
-        int b= sc.nextInt();
+        int b = sc.nextInt();
         System.out.println(" ");
         int c= sc.nextInt();
         int dis =b*b-4*a*c;
-        double scdis=Math.sqrt(dis);
+        double dis = dis (a,b,c);
 
 
-        if (dis>0) System.out.println((-b+scdis)/2*a + " " + (-b-scdis)/2*a);
+        if (dis>0) System.out.println((-b+dis)/2*a + " " + (-b-dis)/2*a);
 
-        if (dis==0) System.out.println((-b-scdis)/2*a);
+        if (dis==0) System.out.println((-b-dis)/2*a);
 
         if (dis<0) System.out.println("Отрицательный дискриминант");
 
