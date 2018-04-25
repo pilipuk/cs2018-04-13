@@ -1,5 +1,10 @@
 package by.it.pilipuk.lesson05;
 
+import by.it._examples_.demo05.While;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
 /*
 Создайте список строк.
 Вводите строки с клавиатуры, пока пользователь не введет слово END.
@@ -20,5 +25,10 @@ END
 
 */
 public class TaskA2 {
+    public static void main(String[] args) {
+        ArrayList <String> list=new ArrayList<String>();
+                Scanner sc=new Scanner(System.in);
+        while (true);
 
+    }
 }
