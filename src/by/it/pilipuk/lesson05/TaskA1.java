@@ -26,12 +26,9 @@ package by.it.pilipuk.lesson05;
 
 import java.util.Scanner;
 
-public class TaskA1 {
-    public static void main(String[] args) {
-        int[] arr=new[10];
-        Scanner scannere=new Scanner(System.in);
-        for (int i=9; i>=0; i--);
-            }
-            for (int element : arr){}
-}
+// public class TaskA1 {
+  //  public static void main(String[] args) {
+      //  int[] arr=new[10];         Scanner scannere=new Scanner(System.in);         for (int i=9; i>=0; i--);           }
+    //       for (int element : arr){}
+//}
 
